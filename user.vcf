@@ -1,14 +1,14 @@
 BEGIN:VCARD
 VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
-N:Lim;Preston;;;
-FN: Preston  Lim 
-ORG:GovTech;
-TITLE:Associate Software Engineer\nProducts Team, Data Science Division
-EMAIL;type=INTERNET;type=WORK;type=pref:preston@data.gov.sg
-TEL;type=WORK;type=VOICE:+65 9123 4567
-item1.ADR;type=WORK;type=pref:;;1 Fusionopolis View\nSandcrawler\, 09-01;;;138577;Singapore
+N:Mannweiler;Nick;;;
+FN: Mannweiler  Nick 
+ORG:San Diego State University;
+TITLE:Graduate Student\Military PAO Program, Journalism & Media Studies
+EMAIL;type=INTERNET;type=PERSONAL;type=pref:nick.mannweiler@gmail.com
+TEL;type=CELL;type=VOICE:317.443.5019
+item1.ADR;type=HOME;type=pref:;;5657 Red River Drive\nSan Diego, Calif.\, ;;;92120;
 item1.X-ABADR:sg
-item2.URL;type=pref:tech.gov.sg
+item2.URL;type=pref:thegalapagosargus.com
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
