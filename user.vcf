@@ -3,12 +3,12 @@ VERSION:3.0
 PRODID:-//Apple Inc.//iPhone OS 11.2.2//EN
 N:Mannweiler;Nick;;;
 FN: Mannweiler  Nick 
-ORG:San Diego State University;
-TITLE:Graduate Student\Military PAO Program, Journalism & Media Studies
-EMAIL;type=INTERNET;type=PERSONAL;type=pref:nick.mannweiler@gmail.com
+ORG:Headquarters, U.S. Marine Corps;
+TITLE:Operations Officer\Communication Directorate
+EMAIL;type=INTERNET;type=WORK;type=pref:nicholas.mannweiler@usmc.mil, ontherecord@usmc.mil
 TEL;type=CELL;type=VOICE:317.443.5019
-item1.ADR;type=HOME;type=pref:;;5657 Red River Drive\nSan Diego, Calif.\, ;;;92120;
+item1.ADR;type=HOME;type=pref:;;The Pentagon\nWashington, D.C.\, ;;;20350;
 item1.X-ABADR:sg
-item2.URL;type=pref:thegalapagosargus.com
+item2.URL;type=pref:cd.marines.mil
 item2.X-ABLabel:_$!<HomePage>!$_
 END:VCARD
